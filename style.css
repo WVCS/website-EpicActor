@@ -1,15 +1,15 @@
 body{
-  background-color: #7400B8;
+  background-color: #5E60CE;
 }
 h1{
-  color: #80FFDB;
+  color: #dffffa;
   font-size: 500%;
   letter-spacing: 4px;
   text-decoration: underline;
   text-decoration-color: #28AFB0;
 }
 p{
- color: #72EFDD;
+ color: #80FFDB;
  font-size: 300%;
 }
 img{
@@ -31,7 +31,7 @@ li{
 }
 li a{
   padding: 40px;
-  color:#5E60CE;
+  color:#64DFDF;
   font-family: "Monaco", Monospace;
   text-decoration: none;
   border: dashed;
