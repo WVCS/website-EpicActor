@@ -1,15 +1,15 @@
 body{
-  background-color: #DDCECD;
+  background-color: #7400B8;
 }
 h1{
-  color: #19647E;
+  color: #80FFDB;
   font-size: 500%;
   letter-spacing: 4px;
   text-decoration: underline;
   text-decoration-color: #28AFB0;
 }
 p{
- color: #19647E;
+ color: #72EFDD;
  font-size: 300%;
 }
 img{
@@ -31,12 +31,12 @@ li{
 }
 li a{
   padding: 40px;
-  color:#28AFB0;
+  color:#5E60CE;
   font-family: "Monaco", Monospace;
   text-decoration: none;
   border: dashed;
 }
 li a:hover{
-  background-color: #28AFB0;
+  background-color: #5E60CE;
   color: white;
 }
